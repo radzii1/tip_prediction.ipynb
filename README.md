@@ -31,7 +31,12 @@ The dataset includes:
 
 ## Model Results
 
-- **R² Score**: 0.76 (example — update with your score)
+- **R² Score**:0.43
+
+
+
+
+
 - **Top Features**: `total_bill`, `size`, `smoker_Yes`
 
 ---
