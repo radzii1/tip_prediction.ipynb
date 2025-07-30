@@ -1,11 +1,11 @@
-# tip_prediction.ipynb
-# 💰 Tip Prediction with Linear Regression
+
+# Tip Prediction with Linear Regression
 
 This project uses the **Seaborn Tips Dataset** to build a machine learning model that predicts the amount of tip based on features like total bill, gender, smoking status, time of day, and party size.
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The dataset includes:
 
@@ -19,7 +19,7 @@ The dataset includes:
 
 ---
 
-## 🔧 Workflow
+## Workflow
 
 1. **Data Cleaning & EDA**: Used Pandas & Seaborn to explore distributions and correlations  
 2. **Preprocessing**: Converted categorical features using one-hot encoding  
@@ -29,14 +29,14 @@ The dataset includes:
 
 ---
 
-## 📈 Model Results
+## Model Results
 
 - **R² Score**: 0.76 (example — update with your score)
 - **Top Features**: `total_bill`, `size`, `smoker_Yes`
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 - Basics of regression modeling
 - How to handle categorical data for ML
@@ -44,7 +44,7 @@ The dataset includes:
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```bash
 pip install pandas seaborn matplotlib scikit-learn
